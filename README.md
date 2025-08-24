@@ -7,13 +7,13 @@
 <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinmaurya01" alt="sachinmaurya01" /></a> </p> -->
 
-- 🔭 I’m currently working on **NestJs Projects**
+- 🔭 I’m currently working on **NestJs and Python Projects**
 
-- 🌱 I’m currently learning **NestJs and DevOps**
+- 🌱 I’m currently learning **System Design and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SachinMaurya01](https://github.com/SachinMaurya01)
 
-- 📫 How to reach me **https://www.linkedin.com/in/sachin-maurya-36333b1b3/**
+- 📫 How to reach me **https://www.linkedin.com/in/sachin-maurya-01/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
