@@ -8,8 +8,6 @@
   </a>
 </p>
 
-<img width="100%" src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" />
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sachinmaurya01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Experience-4%2B_Years-0e75b6?style=for-the-badge&logo=briefcase&logoColor=white" alt="experience" />
@@ -103,33 +101,33 @@ Focused on building **scalable, low-latency and robust backend systems** that de
 ### Architecture
 `System Design • Microservices • Event-Driven • Distributed Systems • API Gateway • Agile`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachinmaurya01&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/SachinMaurya01/SachinMaurya01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<img width="100%" src="https://ghchart.rshah.org/0e75b6/SachinMaurya01" alt="contribution chart" />
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinmaurya01&show_icons=true&theme=tokionight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=sachinmaurya01&theme=tokionight&hide_border=true&border_radius=10" alt="streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SachinMaurya01&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=SachinMaurya01&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinmaurya01&layout=compact&theme=tokionight&hide_border=true&langs_count=8" alt="top langs" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=sachinmaurya01&theme=tokionight&no-frame=true&margin-w=10&row=1&column=6" alt="trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SachinMaurya01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinMaurya01&theme=tokyonight" alt="repos per language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachinmaurya01&theme=tokionight&utcOffset=5.5" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SachinMaurya01&theme=tokyonight&utcOffset=5.5" alt="productive time" />
 </p>
 
 ---
 
 ## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SachinMaurya01/SachinMaurya01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:623ce8,100:fc466b&height=120&section=footer" width="100%" />
