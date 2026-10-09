@@ -1,31 +1,149 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center">Hi 👋, I'm Sachin Maurya</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- HEADER ANIMATION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:623ce8,100:fc466b&height=180&section=header&text=Sachin%20Maurya&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%204%2B%20Yrs%20%7C%20Backend%20%7C%20GenAI-RAG%20%7C%20AWS&descAlignY=58&descSize=16" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinmaurya01&label=Profile%20views&color=0e75b6&style=flat" alt="sachinmaurya01" /> </p>
-<br/>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinmaurya01" alt="sachinmaurya01" /></a> </p> -->
-
-- 🔭 I’m currently working on **Python and Golang Projects**
-
-- 🌱 I’m currently learning **System Design and DevOps**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SachinMaurya01](https://github.com/SachinMaurya01)
-
-- 📫 How to reach me **https://www.linkedin.com/in/sachin-maurya-01/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-maurya-36333b1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-maurya-36333b1b3/" height="30" width="40" /></a>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://github.com/SachinMaurya01">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin+Maurya+%7C+Software+Engineer;4%2B+Yrs+Building+Production+Backends;I+build+Go+API+Gateways+%2B+Python+Microservices;I+ship+GenAI+RAG+pipelines+%2B+AWS+Infra;Clean+Architecture+%7C+High+Scale+%7C+DevOps" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>  <a href="https://go.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a></p>
+<img width="100%" src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachinmaurya01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Experience-4%2B_Years-0e75b6?style=for-the-badge&logo=briefcase&logoColor=white" alt="experience" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%7C_GenAI_%7C_AWS-623ce8?style=for-the-badge&logo=serverless&logoColor=white" alt="focus" />
+  <img src="https://img.shields.io/github/followers/SachinMaurya01?label=Followers&style=for-the-badge&color=fc466b" alt="followers" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinmaurya01&show_icons=true&locale=en&layout=compact" alt="sachinmaurya01" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinmaurya01&show_icons=true&locale=en" alt="sachinmaurya01" /></p>
+## 🚀 About Me — Software Engineer (Backend + Cloud + GenAI)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinmaurya01&" alt="sachinmaurya01" /></p>
+<img align="right" alt="Backend Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+**Software Engineer with 4+ years** building **production backend systems, cloud infrastructure, and applied GenAI/RAG pipelines.**
+
+Focused on building **scalable, low-latency and robust backend systems** that deliver high performance and real business impact.
+
+- 🔭 Focus: **Python, Golang, TypeScript** | **FastAPI, Gin, LangGraph** | **PostgreSQL, Redis, Qdrant, pgvector** | **AWS, Docker, Kubernetes, Kafka**
+- 🧠 Strengths: **Python, Golang, Microservices, Event-Driven Architecture, AWS, Docker, Observability**
+- 🤖 AI Engineer: **LLMs, RAG Pipelines, Prompt Engineering, Hybrid Retrieval (BM25 + Embeddings), Reranking, RAGAS, Pydantic, Tool Calling, Multi-LLM Routing**
+- 🏆 Recognized for **backend automation and DevOps optimization**
+- 👨‍💻 All work: [github.com/SachinMaurya01](https://github.com/SachinMaurya01)
+- 📫 Hire / collab: [LinkedIn](https://www.linkedin.com/in/sachin-maurya-01/)
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+
+## 📈 Efficiency Dashboard — How I Work
+
+> I optimize for **low latency, high reliability, fast deployments & clear observability**
+
+| Focus Area | What I Deliver |
+|------------|----------------|
+| ⚡ **API Performance** | Clean REST design, auth, validation, pagination, query + index tuning, Redis caching |
+| 🧩 **Scalable Architecture** | Microservices, API gateways, event-driven flows with queues, service isolation |
+| 🛡️ **Reliability** | Timeouts, retries, circuit breakers, DLQs, idempotent consumers, safe rollbacks |
+| 🚀 **CI/CD & Quality** | Multi-env pipelines (QA → Staging → Prod), code-quality gates, security scans, automated tests |
+| 🔍 **Observability** | Latency (p95/p99), CPU/memory, error-rate & health dashboards, alerts that fire before users notice |
+| 🗄️ **Data Integrity** | Normalized schemas, constraints, transactions, secure secret handling (no hardcoded creds) |
+
+---
+
+## 🛠️ Tech Stack — Backend First
+
+### Core Languages
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,go,ts,js&theme=dark" /></a></p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### AI / GenAI
+![LLMs](https://img.shields.io/badge/LLMs-623ce8?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0e75b6?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Hybrid_BM25+pgvector-fc466b?style=for-the-badge&logo=weaviate&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS_Eval-00ADD8?style=for-the-badge&logo=testrail&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white)
+
+### Frameworks
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,django,nestjs,express,nodejs,react,nextjs&theme=dark" /></a></p>
+
+### Databases, Cache & Search
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch&theme=dark" /></a></p>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud + DevOps (GitLab is source of truth)
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gitlab,github,bash,linux,kafka&theme=dark" /></a></p>
+
+![AWS EC2 ECS ECR S3](https://img.shields.io/badge/AWS-EC2_ECS_ECR_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQS EventBridge SNS](https://img.shields.io/badge/AWS-SQS_EventBridge_SNS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-OIDC-DD344C?style=for-the-badge&logo=awssecretsmanager&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+
+### Architecture
+`System Design • Microservices • Event-Driven • Distributed Systems • API Gateway • Agile`
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachinmaurya01&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinmaurya01&show_icons=true&theme=tokionight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sachinmaurya01&theme=tokionight&hide_border=true&border_radius=10" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinmaurya01&layout=compact&theme=tokionight&hide_border=true&langs_count=8" alt="top langs" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=sachinmaurya01&theme=tokionight&no-frame=true&margin-w=10&row=1&column=6" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachinmaurya01&theme=tokionight&utcOffset=5.5" alt="productive time" />
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SachinMaurya01/SachinMaurya01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:623ce8,100:fc466b&height=120&section=footer" width="100%" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sachin-maurya-01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SachinMaurya01" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sachinmaurya01.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<h3 align="center">⚡ “First make it work, then make it fast — then make it scale.” ⚡</h3>
+<p align="center"><i>Backend engineer by craft. RAG + AWS + Go in production.</i></p>
