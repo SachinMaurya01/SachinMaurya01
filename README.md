@@ -102,10 +102,17 @@ Focused on building **scalable, low-latency and robust backend systems** that de
 `System Design • Microservices • Event-Driven • Distributed Systems • API Gateway • Agile`
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/SachinMaurya01/SachinMaurya01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SachinMaurya01/SachinMaurya01/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SachinMaurya01/SachinMaurya01/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/SachinMaurya01/SachinMaurya01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  </picture>
 </p>
 
-<img width="100%" src="https://ghchart.rshah.org/0e75b6/SachinMaurya01" alt="contribution chart" />
+<!-- Fallback animation (always works, even if snake output branch is stale) -->
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/0e75b6/SachinMaurya01" alt="contribution chart" />
+</p>
 
 ---
 
