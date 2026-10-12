@@ -4,7 +4,7 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://github.com/SachinMaurya01">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin+Maurya+%7C+Software+Engineer;4%2B+Yrs+Desiging+and+Building+Production+Systems;Building+Robust+Systems+using+Go+,+Python+and+Typescript;I+build+and+ship+GenAI+RAG+pipelines+%2B+AWS+Infra;Clean+Architecture+%7C+High+Scale+%7C+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin+Maurya+%7C+Software+Engineer;4%2B+Yrs+Desiging+and+Building+Production+Systems;Building+Robust+Systems+using+Go+,+Python+and+Typescript;I+build+and+ship+GenAI+RAG+pipelines+%2B+AWS+Infra;Clean+Architecture+%7C+High+Scale+%7C+DevOps" alt="Typing SVG" />
   </a>
 </p>
 
